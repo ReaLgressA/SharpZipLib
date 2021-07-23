@@ -1,0 +1,12 @@
+{
+    "name": "com.realgressa.shaprziplib",
+    "displayName": "SharpZipLib",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "description": "For of SharpZipLib for usage in unity",
+    "keywords": [
+        "zip",
+        "unity"
+    ],
+    "category": "Unity"
+}
