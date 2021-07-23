@@ -1,7 +1,7 @@
 {
-    "name": "com.realgressa.shaprziplib",
+    "name": "com.realgressa.sharpziplib",
     "displayName": "SharpZipLib",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "unity": "2020.3",
     "description": "For of SharpZipLib for usage in unity",
     "keywords": [
